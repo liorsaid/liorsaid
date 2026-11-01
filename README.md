@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Li-or Said
 
-Software Developer at **StarNext**, building backend services, REST APIs and web applications with C#/.NET, SQL Server and Angular.
+Software Developer , building backend services, REST APIs and web applications with C#/.NET, SQL Server and Angular.
 B.Sc. in Computer Science from Reichman University.
 
 ### 🛠️ Tech Stack
